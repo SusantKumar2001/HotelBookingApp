@@ -1,0 +1,21 @@
+# Hotel Booking App
+
+This is a Hotel Booking App that allows users to browse hotels, book rooms, and manage reservations.
+
+## Features
+- View available hotels and rooms.
+- Book a room with specified dates.
+- Manage user profiles and reservations.
+
+## Technologies Used
+- **Java**: Backend logic.
+- **Spring Boot**: Framework for APIs.
+- **MySQL**: Database for storing user and booking data.
+- **IntelliJ IDEA**: IDE for development.
+
+## Getting Started
+### Prerequisites
+- JDK 17+
+- MySQL Database
+- IntelliJ IDEA or any preferred IDE
+- Git
